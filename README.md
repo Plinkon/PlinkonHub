@@ -17,6 +17,8 @@ HOW TO GET THE KEY:
 
 1) Go to my YT Chanel and subscribe
 
+https://youtube.com/@plinkon5194
+
 2) Go to the Chanel Description and copy the link
 
 3) Paste the link in and enjoy!
