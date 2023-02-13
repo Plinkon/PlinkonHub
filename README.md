@@ -1,17 +1,6 @@
 Introducing the Plinkon Hub!
 The all in one hub for script developers and casual players!
 ------------------------------------------------------------
-FEATURES:
-This hub includes:
-• Sliders for speed and jump power
-• Invisibility
-• A Fly Script
-• Multiple different hubs (Orca, Sirius, DomainX)
-• Simple Spy
-• Dark DEX
-• Infinite Yeild
-• And more to come!
--------------------------------------------------
 INSTRUCTIONS:
 :
 1) Copy and paste the code in the file below
