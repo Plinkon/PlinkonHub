@@ -2,7 +2,7 @@ Introducing the Plinkon Hub!
 The all in one hub for script developers and casual players!
 ------------------------------------------------------------
 INSTRUCTIONS:
-:
+
 1) Copy and paste the code in the file below
 :
 2) Go into your executor
@@ -14,7 +14,7 @@ INSTRUCTIONS:
 5) Enjoy!
 ---------------------------------------------
 HOW TO GET THE KEY:
-:
+
 1) Go to my YT Chanel and subscribe
 :
 2) Go to the Chanel Description and copy the link
