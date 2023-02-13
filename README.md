@@ -16,11 +16,10 @@ INSTRUCTIONS:
 HOW TO GET THE KEY:
 
 1) Go to my YT Chanel and subscribe
-
-https://youtube.com/@plinkon5194
+CHANEL: https://youtube.com/@plinkon5194
 
 2) Go to the Chanel Description and copy the link
 
-3) Paste the link in and enjoy!
+3) Paste the key in and enjoy!
 -------------------------------------------------
 This is a hub that I made in my free time and I will hopefully update it!
