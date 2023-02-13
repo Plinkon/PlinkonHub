@@ -1,2 +1,35 @@
-# Plinkon-Hub
-This is a roblox GUI hub that I made. It has a bunch of QOL (Quality Of Life) scripts and settings built into the GUI. I hope that you enjoy using it!
+Introducing the Plinkon Hub!
+The all in one hub for script developers and casual players!
+------------------------------------------------------------
+FEATURES:
+This hub includes:
+• Sliders for speed and jump power
+• Invisibility
+• A Fly Script
+• Multiple different hubs (Orca, Sirius, DomainX)
+• Simple Spy
+• Dark DEX
+• Infinite Yeild
+• And more to come!
+-------------------------------------------------
+INSTRUCTIONS:
+:
+1) Copy and paste the code in the file below
+:
+2) Go into your executor
+:
+3) Paste the script in your executor
+:
+4) Get the key for the hub
+:
+5) Enjoy!
+---------------------------------------------
+HOW TO GET THE KEY:
+:
+1) Go to my YT Chanel and subscribe
+:
+2) Go to the Chanel Description and copy the link
+:
+3) Paste the link in and enjoy!
+-------------------------------------------------
+This is a hub that I made in my free time and I will hopefully update it!
