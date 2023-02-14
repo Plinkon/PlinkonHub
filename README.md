@@ -28,9 +28,9 @@ _____
 **_HOW TO GET KEY:_**
 
 1. Go to link below
-(Link here)
+(https://www.youtube.com/channel/UCPG2iwsSCtNEOTAFKhCqpSQ?sub_confirmation=1)
 
-2. Subscribe to get the key
+2. Please subscribe because it helps me
 
 3. Paste key in and enjoy!
 _____
