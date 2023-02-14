@@ -11,7 +11,7 @@ to get so don't worry. I will probably update
 this script hub weekly, although I have lots 
 of work to do besides this. The Plinkon-Hub
 is something I have made in my freetime and I
-might or might continue it.
+might or might not continue it.
 _____
 INSTALL INSTRUCTIONS:
 
