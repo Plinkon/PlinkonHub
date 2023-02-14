@@ -42,9 +42,9 @@ _SUPPORTED EXECUTORS:_
 
 3. KRNL
 
-These executors should work with this script.
+**!These executors should work with this script.
 But I have not tested every single executor
 so if you use a executor not on this list, 
-it might work.
+it might work!**
 _____
 Thank you for using the Plinkon-Hub!
