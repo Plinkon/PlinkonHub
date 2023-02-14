@@ -13,7 +13,7 @@ of work to do besides this. The Plinkon-Hub
 is something I have made in my freetime and I
 might or might not continue it.
 _____
-_INSTALL INSTRUCTIONS:_
+**_INSTALL INSTRUCTIONS:_**
 
 1. Copy the code in the description for any version
 
@@ -25,7 +25,7 @@ _INSTALL INSTRUCTIONS:_
 
 4. Have fun!
 _____
-_HOW TO GET KEY:_
+**_HOW TO GET KEY:_**
 
 1. Go to link below
 (Link here)
@@ -34,7 +34,7 @@ _HOW TO GET KEY:_
 
 3. Paste key in and enjoy!
 _____
-_SUPPORTED EXECUTORS:_
+**_SUPPORTED EXECUTORS:_**
 
 1. Synapse X
 
@@ -42,9 +42,9 @@ _SUPPORTED EXECUTORS:_
 
 3. KRNL
 
-_**These executors should work with this script.
+_These executors should work with this script.
 But I have not tested every single executor
 so if you use a executor not on this list, 
-it might work.**_
+it might work._
 _____
 Thank you for using the Plinkon-Hub!
