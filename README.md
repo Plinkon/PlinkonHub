@@ -15,7 +15,7 @@ might or might continue it.
 _____
 INSTALL INSTRUCTIONS:
 
-1. Copy the code in the file for each version
+1. Copy the code in the description for any version
 
 2. Go into your executor and paste the code
 (See bottom of page for supported executors)
@@ -33,5 +33,18 @@ HOW TO GET KEY:
 2. Subscribe to get the key
 
 3. Paste key in and enjoy!
+_____
+SUPPORTED EXECUTORS
+
+1. Synapse X
+
+2. Scriptware
+
+3. KRNL
+
+These executors should work with this script.
+But I have not tested every single executor
+so if you use a executor not on this list, 
+it might work.
 _____
 Thank you for using the Plinkon-Hub!
