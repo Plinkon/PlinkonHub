@@ -34,7 +34,7 @@ HOW TO GET KEY:
 
 3. Paste key in and enjoy!
 _____
-SUPPORTED EXECUTORS
+SUPPORTED EXECUTORS:
 
 1. Synapse X
 
