@@ -13,7 +13,7 @@ of work to do besides this. The Plinkon-Hub
 is something I have made in my freetime and I
 might or might not continue it.
 _____
-INSTALL INSTRUCTIONS:
+_INSTALL INSTRUCTIONS:_
 
 1. Copy the code in the description for any version
 
@@ -25,7 +25,7 @@ INSTALL INSTRUCTIONS:
 
 4. Have fun!
 _____
-HOW TO GET KEY:
+_HOW TO GET KEY:_
 
 1. Go to link below
 (Link here)
@@ -34,7 +34,7 @@ HOW TO GET KEY:
 
 3. Paste key in and enjoy!
 _____
-SUPPORTED EXECUTORS:
+_SUPPORTED EXECUTORS:_
 
 1. Synapse X
 
