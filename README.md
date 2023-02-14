@@ -1,25 +1,37 @@
-Introducing the Plinkon Hub!
-The all in one hub for script developers and casual players!
-------------------------------------------------------------
-INSTRUCTIONS:
+Introducing the Plinkon-Hub!
+----------------------------
+This is a Roblox hub that has a bunch of
+scripts and quality of life features.
+With this script, you can develop other scripts
+easier with the implemented DEX and Simple Spy.
+You can also have fun and try out the different 
+scripts that I have added into this project.
+This script does use A KEY, but it is easy
+to get so don't worry. I will probably update
+this script hub weekly, although I have lots 
+of work to do besides this. The Plinkon-Hub
+is something I have made in my freetime and I
+might or might continue it.
+_____
+INSTALL INSTRUCTIONS:
 
-1) Copy and paste the code in the file below
+1. Copy the code in the file for each version
 
-2) Go into your executor
+2. Go into your executor and paste the code
+(See bottom of page for supported executors)
 
-3) Paste the script in your executor
+3. Execute the script and get the key
+(More on the key later)
 
-4) Get the key for the hub
+4. Have fun!
+_____
+HOW TO GET KEY:
 
-5) Enjoy!
----------------------------------------------
-HOW TO GET THE KEY:
+1. Go to link below
+(Link here)
 
-1) Go to my YT Chanel and subscribe
-CHANEL: https://youtube.com/@plinkon5194
+2. Subscribe to get the key
 
-2) Go to the Chanel Description and copy the link
-
-3) Paste the key in and enjoy!
--------------------------------------------------
-This is a hub that I made in my free time and I will hopefully update it!
+3. Paste key in and enjoy!
+_____
+Thank you for using the Plinkon-Hub!
