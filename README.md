@@ -32,7 +32,9 @@ _____
 
 2. Please subscribe because it helps me
 
-3. Paste key in and enjoy!
+3. Go to the _about_ section
+
+4. Paste key in and enjoy!
 _____
 **_SUPPORTED EXECUTORS:_**
 
