@@ -3,7 +3,7 @@ Introducing the Plinkon-Hub!
 This is a Roblox hub that has a bunch of
 scripts and quality of life features.
 With this script, you can develop other scripts
-easier with the implemented DEX and Simple Spy.
+easier with the implemented DEX and Turtle Spy.
 You can also have fun and try out the different 
 scripts that I have added into this project.
 This script is absolutely KEYLESS! I will also 
