@@ -6,12 +6,11 @@ With this script, you can develop other scripts
 easier with the implemented DEX and Simple Spy.
 You can also have fun and try out the different 
 scripts that I have added into this project.
-This script does use A KEY, but it is easy
-to get so don't worry. I will probably update
-this script hub weekly, although I have lots 
-of work to do besides this. The Plinkon-Hub
-is something I have made in my freetime and I
-might or might not continue it.
+This script is absolutely KEYLESS! I will also 
+probably update this script hub weekly, 
+although I have lots of work to do besides this.
+The Plinkon-Hub is something I have made in 
+my freetime and I might or might not continue it.
 _____
 **_INSTALL INSTRUCTIONS:_**
 
@@ -20,21 +19,7 @@ _____
 2. Go into your executor and paste the code
 (See bottom of page for supported executors)
 
-3. Execute the script and get the key
-(More on the key later)
-
-4. Have fun!
-_____
-**_HOW TO GET KEY:_**
-
-1. Go to link below
-(https://www.youtube.com/channel/UCPG2iwsSCtNEOTAFKhCqpSQ?sub_confirmation=1)
-
-2. Please subscribe because it helps me
-
-3. Go to the _about_ section
-
-4. Paste key in and enjoy!
+3. Have fun!
 _____
 **_SUPPORTED EXECUTORS:_**
 
