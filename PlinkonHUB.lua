@@ -1,4 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+IntroEnabled = true,
+IntroText = "Thank You For Using Plinkon-Hub"
 
 local Window = OrionLib:MakeWindow({Name = "Plinkon-Hub | @plinkon5194", HidePremium = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 OrionLib:MakeNotification({
@@ -6,8 +8,7 @@ OrionLib:MakeNotification({
 	Content = "Thank You For Using Plinkon-Hub!",
 	Image = "rbxassetid://4483345998",
 	Time = 5,
-        IntroEnabled = true,
-        IntroText = "Thank You For Using Plinkon-Hub"
+        
 })
 
 --[[
