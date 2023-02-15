@@ -36,11 +36,11 @@ _____
 _____
 **_SUPPORTED EXECUTORS:_**
 
-1. Synapse X
+1. Synapse X _(Tried and tested)_
 
-2. Scriptware
+2. Scriptware _(Tried and tested)_
 
-3. KRNL
+3. KRNL _(Not tested)_
 
 _These executors should work with this script.
 But I have not tested every single executor
