@@ -35,3 +35,8 @@ so if you use a executor not on this list,
 it might work._
 _____
 Thank you for using the Plinkon-Hub!
+_____
+**_LINKS:_**
+_Discord:_ https://discord.gg/E5ZNYgD4
+
+_Youtube:_ 
