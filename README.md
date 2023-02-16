@@ -40,4 +40,4 @@ _____
 
 1: _Discord:_ https://discord.gg/E5ZNYgD4
 
-2: _Youtube:_ 
+2: _Youtube:_ https://www.youtube.com/channel/UCPG2iwsSCtNEOTAFKhCqpSQ?sub_confirmation=1
