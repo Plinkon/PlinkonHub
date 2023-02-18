@@ -14,7 +14,7 @@ my freetime and I might or might not continue it.
 _____
 **_INSTALL INSTRUCTIONS:_**
 
-1. Copy the code in the description for any version. _**(Do not copy the code in the PlinkonHub.lua file! Go into a version and copy that code)**_
+1. Copy the code in the description for any version.
 
 2. Go into your executor and paste the code
 (See bottom of page for supported executors)
